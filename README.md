@@ -31,6 +31,10 @@ _1 TILs and counting..._
 
 - [Viewing a Deleted File](git/viewing-a-deleted-branch.md)
 
+### Go
+
+- [Write Out an HTML File with Cover Tool](go/write-out-an-HTML-file-with-cover-tool.md)
+
 ## About
 
 I shamelessly stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
