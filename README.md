@@ -4,7 +4,32 @@ We constantly learn new things. This is a collection of concise write-ups on sma
 
 For a steady stream of TILs, watch this repo or follow [@cedric_chee](https://twitter.com/cedric_chee) on Twitter.
 
+_1 TILs and counting..._
+
 ---
+
+### Categories
+
+- [DevOps](#devops)
+- [Git](#git)
+- [Go](#go)
+- [Internet](#internet)
+- [JavaScript](#javascript)
+- [Life](#life)
+- [Linux](#linux)
+- [Node.js](#nodejs)
+- [PostgreSQL](#postgresql)
+- [React](#react)
+- [tmux](#tmux)
+- [Unix](#unix)
+- [Vim](#vim)
+- [VS Code](#vscode)
+
+---
+
+### Git
+
+- [Viewing a Deleted File](git/viewing-a-deleted-branch.md)
 
 ## About
 
